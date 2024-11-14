@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Kris dev blog'
+
+paginate = 2
+
+[params]
+    favicon = "static/images/favicon.ico"
+    dateformat = "Jan 2, 2006"
+    description = "The fastest blog"
+
+[taxonomies]
+    category = "categories"
+    author = "authors"
