@@ -5,7 +5,7 @@
             <h1 class="singleHeadTitle">{{ .Title }}</h1>
             <p class="singleHeadDesc">{{ .Params.description }}</p>
             <div class="singleHeadDetail">
-                <img src={{ .Params.avatar }} 
+                <img src="{{ .Site.BaseURL }}/{{ .Params.avatar }}" 
                       loading="lazy" 
                       class="singleAvatar">
                 <span>
@@ -21,7 +21,7 @@
             </div>
             <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
         </div>
-        <img src={{ .Params.imageBig }} alt={{ .Title }} class="singleHeadImg">
+        <img src="{{ .Site.BaseURL }}/{{ .Params.imageBig }}" alt={{ .Title }} class="singleHeadImg">
     </div>
     <div class="singleBottom">
         <div class="singleContent">{{ .Content }}</div>

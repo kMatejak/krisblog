@@ -3,7 +3,7 @@
     {{ range .Paginator.Pages }}
     <div class="listItem">
         <a href={{ .Permalink }}>
-            <img src={{ .Params.image }} 
+            <img src="{{ .Site.BaseURL }}/{{ .Params.image }}" 
                  alt={{ .Title }} 
                  class="listItemImage" 
                  loading="lazy" />
@@ -14,7 +14,7 @@
             </h1>
             <p class="listItemDescription">{{ .Params.description }}</p>
             <div class="listItemDetail">
-                <img src={{ .Params.avatar }} 
+                <img src="{{ .Site.BaseURL }}/{{ .Params.avatar }}" 
                      loading="lazy" 
                      alt=""
                      class="listItemAvatar" />
@@ -24,7 +24,7 @@
                 <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
             </div>
             <div class="listItemCategories">
-                {{ range (.GetTerms "categories") }}
+                {{ range ( .GetTerms "categories" ) }}
                 <a class="listItemCategories" href={{ .Permalink }}>{{ .Name }}</a>
                 {{ end }}
             </div>

@@ -2,7 +2,7 @@
 {{ if eq .RelPermalink "/categories/"}} 
 {{ range $.Site.Taxonomies.categories.ByCount }}
   <a href="/categories/{{ .Name }}">
-    # {{ .Name }} <small>({{.Count}})</small>
+    # {{ .Name }} <small>({{ .Count }})</small>
   </a>
 {{end}}
 {{ else }}
@@ -10,34 +10,32 @@
   {{ range .Paginator.Pages }}
   <div class="listItem">
     <img
-      src={{
-      .Params.image
-      }}
-      alt="{{.Title}}"
+      src="{{ .Site.BaseURL }}/{{ .Params.image }}"
+      alt="{{ .Title }}"
       class="listItemImage"
       loading="lazy"
     />
     <div class="listItemTexts">
       <h1 class="listItemTitle">
-        <a href="{{.Permalink}}">{{.Title}}</a>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
       </h1>
-      <p class="listItemDesc">{{.Params.description}}</p>
+      <p class="listItemDesc">{{ .Params.description }}</p>
       <div class="listItemDetail">
         <img
-          src="{{.Params.avatar}}"
+          src="{{ .Site.BaseURL }}/{{ .Params.avatar }}"
           loading="lazy"
           alt=""
           class="listItemAvatar"
         />
         <span
-          >{{ range (.GetTerms "authors")}}
-          <a href="{{.Permalink}}">{{ .Name }}</a>
+          >{{ range ( .GetTerms "authors" )}}
+          <a href="{{ .Permalink }}">{{ .Name }}</a>
           {{end}}</span
         >
         <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
       </div>
       <div class="listItemCategories">
-        {{ range (.GetTerms "categories") }}
+        {{ range ( .GetTerms "categories" ) }}
         <a class="listItemCategory" href={{ .Permalink }}>{{ .Name }}</a>
         {{ end }}
       </div>
