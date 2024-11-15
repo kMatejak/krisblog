@@ -5,7 +5,7 @@ title = 'Kris dev blog'
 paginate = 3
 
 [params]
-    favicon = "static/images/favicon.ico"
+    favicon = "krisblog/static/images/favicon.ico"
     dateformat = "Jan 2, 2006"
     description = "The fastest blog"
 
