@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kris dev blog</title>
-    <link>https://example.org/categories/</link>
+    <link>https://kmatejak.github.io/krisblog/categories/</link>
     <description>Recent content in Categories on Kris dev blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 18:21:15 +0100</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kmatejak.github.io/krisblog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beavers</title>
-      <link>https://example.org/categories/beavers/</link>
+      <link>https://kmatejak.github.io/krisblog/categories/beavers/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/categories/beavers/</guid>
+      <guid>https://kmatejak.github.io/krisblog/categories/beavers/</guid>
       <description></description>
     </item>
     <item>
       <title>Bees</title>
-      <link>https://example.org/categories/bees/</link>
+      <link>https://kmatejak.github.io/krisblog/categories/bees/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/categories/bees/</guid>
+      <guid>https://kmatejak.github.io/krisblog/categories/bees/</guid>
       <description></description>
     </item>
     <item>
       <title>Bikes</title>
-      <link>https://example.org/categories/bikes/</link>
+      <link>https://kmatejak.github.io/krisblog/categories/bikes/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/categories/bikes/</guid>
+      <guid>https://kmatejak.github.io/krisblog/categories/bikes/</guid>
       <description></description>
     </item>
     <item>
       <title>Comedy</title>
-      <link>https://example.org/categories/comedy/</link>
+      <link>https://kmatejak.github.io/krisblog/categories/comedy/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/categories/comedy/</guid>
+      <guid>https://kmatejak.github.io/krisblog/categories/comedy/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>https://example.org/categories/general/</link>
+      <link>https://kmatejak.github.io/krisblog/categories/general/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/categories/general/</guid>
+      <guid>https://kmatejak.github.io/krisblog/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare</title>
-      <link>https://example.org/categories/healthcare/</link>
+      <link>https://kmatejak.github.io/krisblog/categories/healthcare/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/categories/healthcare/</guid>
+      <guid>https://kmatejak.github.io/krisblog/categories/healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Trees</title>
-      <link>https://example.org/categories/trees/</link>
+      <link>https://kmatejak.github.io/krisblog/categories/trees/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/categories/trees/</guid>
+      <guid>https://kmatejak.github.io/krisblog/categories/trees/</guid>
       <description></description>
     </item>
   </channel>

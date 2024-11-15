@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthcare on Kris dev blog</title>
-    <link>https://example.org/categories/healthcare/</link>
+    <link>https://kmatejak.github.io/krisblog/categories/healthcare/</link>
     <description>Recent content in Healthcare on Kris dev blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 18:21:15 +0100</lastBuildDate>
-    <atom:link href="https://example.org/categories/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kmatejak.github.io/krisblog/categories/healthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fourth Post My Fourth Post My Fourth Post My Fourth Post</title>
-      <link>https://example.org/004-my-fourth-post/</link>
+      <link>https://kmatejak.github.io/krisblog/004-my-fourth-post/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/004-my-fourth-post/</guid>
+      <guid>https://kmatejak.github.io/krisblog/004-my-fourth-post/</guid>
       <description>&lt;p&gt;Test Content&lt;/p&gt;</description>
     </item>
   </channel>

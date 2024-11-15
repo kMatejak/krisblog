@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Kris dev blog</title>
-    <link>https://example.org/authors/</link>
+    <link>https://kmatejak.github.io/krisblog/authors/</link>
     <description>Recent content in Authors on Kris dev blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 18:21:15 +0100</lastBuildDate>
-    <atom:link href="https://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kmatejak.github.io/krisblog/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Joe Without a Frog</title>
-      <link>https://example.org/authors/joe-without-a-frog/</link>
+      <link>https://kmatejak.github.io/krisblog/authors/joe-without-a-frog/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/authors/joe-without-a-frog/</guid>
+      <guid>https://kmatejak.github.io/krisblog/authors/joe-without-a-frog/</guid>
       <description></description>
     </item>
     <item>
       <title>Kris in the Fog With a Frog</title>
-      <link>https://example.org/authors/kris-in-the-fog-with-a-frog/</link>
+      <link>https://kmatejak.github.io/krisblog/authors/kris-in-the-fog-with-a-frog/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://example.org/authors/kris-in-the-fog-with-a-frog/</guid>
+      <guid>https://kmatejak.github.io/krisblog/authors/kris-in-the-fog-with-a-frog/</guid>
       <description></description>
     </item>
   </channel>
