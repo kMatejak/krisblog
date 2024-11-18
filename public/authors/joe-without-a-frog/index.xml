@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Without a Frog on Kris dev blog</title>
-    <link>https://kmatejak.github.io/krisblog/authors/joe-without-a-frog/</link>
+    <link>https://matejak.com/authors/joe-without-a-frog/</link>
     <description>Recent content in Joe Without a Frog on Kris dev blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 18:21:15 +0100</lastBuildDate>
-    <atom:link href="https://kmatejak.github.io/krisblog/authors/joe-without-a-frog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matejak.com/authors/joe-without-a-frog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fifth Post</title>
-      <link>https://kmatejak.github.io/krisblog/005-my-fifth-post/</link>
+      <link>https://matejak.com/005-my-fifth-post/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://kmatejak.github.io/krisblog/005-my-fifth-post/</guid>
+      <guid>https://matejak.com/005-my-fifth-post/</guid>
       <description>&lt;p&gt;Test Content&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Third Post</title>
-      <link>https://kmatejak.github.io/krisblog/003-my-third-post/</link>
+      <link>https://matejak.com/003-my-third-post/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://kmatejak.github.io/krisblog/003-my-third-post/</guid>
+      <guid>https://matejak.com/003-my-third-post/</guid>
       <description>&lt;p&gt;Test Content&lt;/p&gt;</description>
     </item>
   </channel>
