@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kris dev blog</title>
-    <link>https://matejak.com/categories/</link>
+    <link>matejak.com/categories/</link>
     <description>Recent content in Categories on Kris dev blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 18:21:15 +0100</lastBuildDate>
-    <atom:link href="https://matejak.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="matejak.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beavers</title>
-      <link>https://matejak.com/categories/beavers/</link>
+      <link>matejak.com/categories/beavers/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/categories/beavers/</guid>
+      <guid>matejak.com/categories/beavers/</guid>
       <description></description>
     </item>
     <item>
       <title>Bees</title>
-      <link>https://matejak.com/categories/bees/</link>
+      <link>matejak.com/categories/bees/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/categories/bees/</guid>
+      <guid>matejak.com/categories/bees/</guid>
       <description></description>
     </item>
     <item>
       <title>Bikes</title>
-      <link>https://matejak.com/categories/bikes/</link>
+      <link>matejak.com/categories/bikes/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/categories/bikes/</guid>
+      <guid>matejak.com/categories/bikes/</guid>
       <description></description>
     </item>
     <item>
       <title>Comedy</title>
-      <link>https://matejak.com/categories/comedy/</link>
+      <link>matejak.com/categories/comedy/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/categories/comedy/</guid>
+      <guid>matejak.com/categories/comedy/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>https://matejak.com/categories/general/</link>
+      <link>matejak.com/categories/general/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/categories/general/</guid>
+      <guid>matejak.com/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare</title>
-      <link>https://matejak.com/categories/healthcare/</link>
+      <link>matejak.com/categories/healthcare/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/categories/healthcare/</guid>
+      <guid>matejak.com/categories/healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Trees</title>
-      <link>https://matejak.com/categories/trees/</link>
+      <link>matejak.com/categories/trees/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/categories/trees/</guid>
+      <guid>matejak.com/categories/trees/</guid>
       <description></description>
     </item>
   </channel>

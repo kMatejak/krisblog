@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bees on Kris dev blog</title>
-    <link>https://matejak.com/categories/bees/</link>
+    <link>matejak.com/categories/bees/</link>
     <description>Recent content in Bees on Kris dev blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 18:21:15 +0100</lastBuildDate>
-    <atom:link href="https://matejak.com/categories/bees/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="matejak.com/categories/bees/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post</title>
-      <link>https://matejak.com/003-my-third-post/</link>
+      <link>matejak.com/003-my-third-post/</link>
       <pubDate>Tue, 05 Nov 2024 18:21:15 +0100</pubDate>
-      <guid>https://matejak.com/003-my-third-post/</guid>
+      <guid>matejak.com/003-my-third-post/</guid>
       <description>&lt;p&gt;Test Content&lt;/p&gt;</description>
     </item>
   </channel>
